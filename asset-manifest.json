@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Scouts-Admin-System/static/css/main.ddd863d4.chunk.css",
+    "main.js": "/Scouts-Admin-System/static/js/main.fccc14e2.chunk.js",
+    "main.js.map": "/Scouts-Admin-System/static/js/main.fccc14e2.chunk.js.map",
+    "runtime~main.js": "/Scouts-Admin-System/static/js/runtime~main.8b795597.js",
+    "runtime~main.js.map": "/Scouts-Admin-System/static/js/runtime~main.8b795597.js.map",
+    "static/js/2.e2789963.chunk.js": "/Scouts-Admin-System/static/js/2.e2789963.chunk.js",
+    "static/js/2.e2789963.chunk.js.map": "/Scouts-Admin-System/static/js/2.e2789963.chunk.js.map",
+    "index.html": "/Scouts-Admin-System/index.html",
+    "precache-manifest.1cf4ac79894a70c3fea07bc42f60b1b0.js": "/Scouts-Admin-System/precache-manifest.1cf4ac79894a70c3fea07bc42f60b1b0.js",
+    "service-worker.js": "/Scouts-Admin-System/service-worker.js",
+    "static/css/main.ddd863d4.chunk.css.map": "/Scouts-Admin-System/static/css/main.ddd863d4.chunk.css.map"
+  }
+}
